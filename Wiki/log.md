@@ -69,3 +69,10 @@ type: log
 - 定义 delegate_task 和独立 Agent 的使用场景对比表
 - 明确子代理限制（不能 clarify/不能递归/50 次工具调用上限）
 - git: 待提交
+
+## [2026-04-06 23:45] task | 新增启动自检 (Auto-Check) 规则
+
+- schema.md: 新增"启动自检 (Auto-Check 机制)"章节
+- 触发词：hi/早/开机/上线
+- 动作：检查 git log/新文件，主动询问并记录
+- git: 待提交

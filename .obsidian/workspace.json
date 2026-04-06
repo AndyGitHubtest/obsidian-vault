@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "key.md",
+                "file": "Wiki/log.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "key"
+              "title": "log"
             }
           }
         ]
@@ -185,9 +185,8 @@
   },
   "active": "82dba3df2c6048ee",
   "lastOpenFiles": [
+    "key.md",
     "Hermes/FlashPay_Project.md",
-    "key.md",
-    "key.md",
     "Wiki/Sources/Karpathy LLM-Wiki.md",
     "量化交易/05-Bug库/Bug总表.md",
     "_Templates/回测报告模板.md",
