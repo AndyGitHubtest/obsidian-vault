@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Wiki/log.md",
+                "file": "量化交易/00-知识框架.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "log"
+              "title": "00-知识框架"
             }
           }
         ]
@@ -185,13 +185,16 @@
   },
   "active": "82dba3df2c6048ee",
   "lastOpenFiles": [
+    "量化交易/01-S001-Pro/00-架构设计说明书_v1.0.md",
+    "量化交易/01-S001-Pro/01-策略规格说明.md",
+    "Wiki/log.md",
+    "Hermes/技能全景图.md",
     "key.md",
     "Hermes/FlashPay_Project.md",
     "Wiki/Sources/Karpathy LLM-Wiki.md",
     "量化交易/05-Bug库/Bug总表.md",
     "_Templates/回测报告模板.md",
     "_Templates/策略文档模板.md",
-    "量化交易/01-S001-Pro/01-策略规格说明.md",
     "量化交易/00-知识框架.md",
     "Hermes/00-能力全景图.md",
     "Wiki/schema.md",
@@ -209,8 +212,6 @@
     "Hermes/WebLearn/claude_skills_monetization_2026-04-04.md",
     "Hermes/WebLearn",
     "Hermes/Bug库/S001《跨品种对冲套利代码审计清单》.md",
-    "Hermes/agency-agents-integration.md",
-    "Hermes/Hermes技能全景图.md",
     "Hermes/策略/S001审计",
     "量化专业知识",
     "02-研究体系",
