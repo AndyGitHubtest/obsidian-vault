@@ -24,3 +24,19 @@ type: log
 - 来源: gist.github.com/karpathy/442a6bf555914893e9891c11519de94f
 - 核心: 持久 wiki vs RAG，知识复利增长
 - 产出: [[Karpathy LLM-Wiki]] 页面
+
+## [2026-04-06 22:30] task | 建立知识库体系
+
+- 创建完整目录结构（Wiki/量化交易/Hermes/_Templates/项目）
+- 创建核心文档：index.md, log.md, schema.md, 知识框架.md, 策略规格说明.md, 能力全景图.md
+- 创建模板：策略文档模板, 回测报告模板, Bug记录模板
+- 创建 Karpathy LLM-Wiki 理念页面
+- 初始化 Git 仓库并推送到 GitHub
+- git: 1b4ea9e
+
+## [2026-04-06 22:45] task | 建立静默工作记忆机制
+
+- 更新 schema.md：新增"静默工作记忆"章节
+- 更新 Memory：记录静默记录铁律
+- 规则：每次任务完成后自动追加 log.md + 更新 Memory 关键事实
+- 用户无需额外操作，自动记录工作轨迹
