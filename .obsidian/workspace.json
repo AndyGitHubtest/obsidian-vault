@@ -183,8 +183,14 @@
       "bases:新建数据库": false
     }
   },
-  "active": "82dba3df2c6048ee",
+  "active": "ab7bb9d583c0fe41",
   "lastOpenFiles": [
+    "量化交易/01-S001-Pro/00-架构设计说明书_v1.0.md",
+    "未命名.md",
+    "_Templates/回测报告模板.md",
+    "_Templates/策略文档模板.md",
+    "Hermes/S001-Pro/SPEC_MASTER_核心开发规格.md",
+    "Hermes/S001-Pro",
     "量化交易/量化交易术语表.md",
     "Hermes/商业/赚钱地图 - 行业进入方法论.md",
     "Hermes/商业/赚钱地图 - 行业进入方法论 (PPT 大纲).md",
@@ -194,15 +200,11 @@
     "Hermes/FlashPay_Project.md",
     "key.md",
     "Wiki/Sources/Karpathy LLM-Wiki.md",
-    "未命名.md",
-    "量化交易/01-S001-Pro/00-架构设计说明书_v1.0.md",
     "Hermes/系统",
     "量化交易/00-知识框架.md",
     "量化交易/01-S001-Pro/01-策略规格说明.md",
     "Wiki/log.md",
     "量化交易/05-Bug库/Bug总表.md",
-    "_Templates/回测报告模板.md",
-    "_Templates/策略文档模板.md",
     "Hermes/00-能力全景图.md",
     "Wiki/schema.md",
     "Hermes/Open-Claude-Cowork-启动教程.md",
@@ -211,7 +213,6 @@
     "Hermes/Bug库/S001跨品种对冲套利代码可能存在的问题.md",
     "Hermes/Bug库/多币轮动自适应均值回归策略业务逻辑文档.md",
     "Hermes/Bug库/S002策略开发代码审计 Checklist.md",
-    "Hermes/Bug库/S002均值回归策略 Bug 清单.md",
     "Hermes/WebLearn",
     "Hermes/策略/S001审计",
     "量化专业知识",
@@ -219,7 +220,6 @@
     "常用命令",
     "05-知识资产/辅助交易助手/视频宣传",
     "05-知识资产/辅助交易助手",
-    "05-知识资产/量化交易AI体系/06-自动值守体系",
-    "05-知识资产/量化交易AI体系/04-实盘执行体系"
+    "05-知识资产/量化交易AI体系/06-自动值守体系"
   ]
 }
